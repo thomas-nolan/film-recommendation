@@ -1,0 +1,13 @@
+data/
+model_data.pkl
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore IDE/project settings
+.vscode/
+.idea/
+
+# If virtual environment was ever moved inside the project
+venv/
